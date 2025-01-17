@@ -1,6 +1,3 @@
-space id : - 9ewe0y7zwb92
-content delivery api : - QyMC6J2Zh6iTQvg_KPk-A3vujRQcU2bCUMbwxLpmEqM 
-
 
 
 ## Figma URL
